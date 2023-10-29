@@ -1,4 +1,4 @@
-<h1>SGP Project(CSPIT CE)
+SGP Project(CSPIT CE)
 
 Project Title :- Blood Bank Donation Mangement System
 
@@ -7,7 +7,7 @@ Group Member :-
 2. Mahamadhusen kureshi(D23CE182)
 3. Ravi Chapla(D23CE188)
 
-Batch:- 3rd sem,CE2,D2</h1>
+Batch:- 3rd sem,CE2,D2
 
 How to run the Blood Bank & Donor Management System Using PHP and MySQL
 
